@@ -1,2 +1,2 @@
 #!/bin/bash
-find *.js "FILE-TO-FIND" rm {} \
+del /S C:*.js 
