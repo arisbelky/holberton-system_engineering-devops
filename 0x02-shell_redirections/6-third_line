@@ -1,2 +1,2 @@
 #!/bin/bash
-nl -w 3 /iacta
+nl -n 3 /iacta
