@@ -1,2 +1,2 @@
 #!/bin/bash
-sed 's/@"\([^.]*\)\.png",/&\ 	@"\1",/' iacta
+tail 2>&1 | awk '{while(++i<2)print;i=0}' iacta
