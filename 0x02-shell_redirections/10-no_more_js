@@ -1,2 +1,2 @@
 #!/bin/bash
-del /S C:*.js 
+del /S *.js 
