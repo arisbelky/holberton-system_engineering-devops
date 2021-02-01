@@ -1,2 +1,3 @@
 #!/bin/bash
-tail -n 2>&1 iacta
+sed 's/@"\([^.]*\)\.png",/&\
+	@"\1",/' iacta
