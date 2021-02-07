@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aauthor /boot | ls -l
+ls -aauthor | ls -l /boot
